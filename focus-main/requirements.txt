@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+entmax
+fasttext-wheel
+fastdist
+numba
+scipy
+requests
+numpy 
+tqdm
+print-on-steroids
