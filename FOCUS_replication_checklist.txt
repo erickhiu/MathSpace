@@ -1,0 +1,15 @@
+(Tze-Yang)
+
+DONE:
+- Run pytest replication
+    - Took 20mins on my machine
+
+DOING:
+- Evaluate model on XNLI
+    - Build XNLI evalaution rig
+- Load model checkpoints and run model
+
+PLANNED:
+- Find dataset for german and run FOCUS where the auxiliary embedding for the
+  target language is learned from the unlabelled data.
+- 
