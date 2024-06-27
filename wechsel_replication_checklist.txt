@@ -1,10 +1,10 @@
 (Christian and Jesús)
 
-DOING:
-- Fine-tuning French WECHSEL RoBERTa 25k for NLI
+DONE:
+- Fine-tuned WECHSEL RoBERTa 25k for NLI in all languages
 
 TODO:
-- Fine-tune French WECHSEL RoBERTa 250k for NLI
-- Fine-tune French WECHSEL RoBERTa 25k for NER
-- Fine-tune the WECHSEL RoBERTa in the other languages
+- Fine-tune WECHSEL RoBERTa 250k for NLI in all languages
+- Fine-tune WECHSEL RoBERTa 25k for NER in all languages
+- Fine-tune WECHSEL RoBERTa 250k for NER in all languages
 - Experiments with GPT2
