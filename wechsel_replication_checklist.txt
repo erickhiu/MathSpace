@@ -1,10 +1,13 @@
-(Christian and Jesús)
+(Christian)
+
+DOING:
+- Fine-tunning WECHSEL RoBERTa 25k for NER task in all languages
 
 DONE:
-- Fine-tuned WECHSEL RoBERTa 25k for NLI in all languages
+- Fine-tuned WECHSEL RoBERTa 25k for NLI task in all languages (Jesus helped Christian run some models because he ran out of GPU)
 
 TODO:
-- Fine-tune WECHSEL RoBERTa 250k for NLI in all languages
-- Fine-tune WECHSEL RoBERTa 25k for NER in all languages
-- Fine-tune WECHSEL RoBERTa 250k for NER in all languages
+- Fine-tune WECHSEL RoBERTa 250k for NLI task in all languages
+- Fine-tune WECHSEL RoBERTa 25k for NER task in all languages
+- Fine-tune WECHSEL RoBERTa 250k for NER task in all languages
 - Experiments with GPT2
