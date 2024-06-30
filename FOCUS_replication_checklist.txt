@@ -1,15 +1,16 @@
 (Tze-Yang)
 
 DONE:
-- Run pytest replication
-    - Took 20mins on my machine
+- 30 Jun 
+  - Refactored to include entire model creation/training function in create_model.py
+    - Samples on how to use are in trainfile_sample.py's
+  - Downstream Tasks Implemented:
+    - NLI
+    - NER
+    - QA (!!)
 
 DOING:
-- Evaluate model on XNLI
-    - Build XNLI evalaution rig
-- Load model checkpoints and run model
+-
 
 PLANNED:
-- Find dataset for german and run FOCUS where the auxiliary embedding for the
-  target language is learned from the unlabelled data.
 - 
